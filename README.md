@@ -3,10 +3,15 @@
 A simple yet powerful password generator built with React.js and Tailwind CSS. This app allows users to create secure and customizable passwords dynamically based on their preferences.
 
 🚀 Features
+
 ✅ Customizable Password Length – Users can select the desired password length.
+
 ✅ Instant Password Generation – Generates a secure password dynamically with a single click.
+
 ✅ Copy to Clipboard – Quickly copy the generated password with one click.
+
 ✅ User-Friendly UI – Styled using Tailwind CSS for a clean and modern design.
+
 ✅ Optimized Performance – Implemented using React Hooks (useState, useCallback, useRef) for efficiency.
 
 🛠️ Tech Stack
