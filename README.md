@@ -34,7 +34,7 @@ Tailwind CSS – Modern styling with utility-first classes.
 📥 Installation & Setup
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/AyushNafdey/password-generator.git
 cd password-generator
 ```
 2. Install dependencies:
