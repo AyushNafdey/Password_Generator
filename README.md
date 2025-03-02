@@ -14,14 +14,22 @@ A simple yet powerful password generator built with React.js and Tailwind CSS. T
 
 ✅ Optimized Performance – Implemented using React Hooks (useState, useCallback, useRef) for efficiency.
 
+
 🛠️ Tech Stack
+
 React.js – Frontend framework for building the UI.
+
 Tailwind CSS – Modern styling with utility-first classes.
 
+
 🎯 How to Use
-Set Password Length – Adjust the slider to select the desired length.
-Generate Password – Click the "Generate" button to create a secure password.
-Copy & Use – Click the "Copy" button to save it to your clipboard.
+
+**Set Password Length** – Adjust the slider to select the desired length.
+
+**Generate Password** – Click the "Generate" button to create a secure password.
+
+**Copy & Use** – Click the "Copy" button to save it to your clipboard.
+
 
 📥 Installation & Setup
 1. Clone the repository:
